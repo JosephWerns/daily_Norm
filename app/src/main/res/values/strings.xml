@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daily Norm</string>
+    <string name="daily_norm">Daily Norm:</string>
+    <string name="channel_name">Daily Norm Channel</string>
+    <string name="channel_description">Daily random quote from Norm MacDonald</string>
+    <string name="daily_norm_switch">daily_norm_switch</string>
+    <string name="norm_caricature">Norm MacDonald caricature</string>
+    <string name="toggle_quotes">Click button below to turn on my daily quote:</string>
+    <string name="toggle_quotes_on">Turn Daily Quotes On</string>
+    <string name="toggle_quotes_off">Turn Daily Quotes Off</string>
+</resources>
