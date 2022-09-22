@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-Current Technology
+**Current Technology:**
 
-Proposed Technology
+**Proposed Technology:**
 
-Benefit of change
+**Benefit of change:**

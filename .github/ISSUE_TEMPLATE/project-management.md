@@ -1,12 +1,12 @@
 ---
 name: Project Management
-about: Non coding todo
+about: Non-coding todo
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-### What needs to be done
+**What needs to be done**
 
-### Benefit
+**Benefit**

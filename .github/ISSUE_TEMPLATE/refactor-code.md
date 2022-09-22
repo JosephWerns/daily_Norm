@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-### Code to be refactor
+**Code to be refactor**
 
-### Benefit of refactoring
+**Benefit of refactoring**
 
-### Refactoring steps
+**Refactoring steps**
