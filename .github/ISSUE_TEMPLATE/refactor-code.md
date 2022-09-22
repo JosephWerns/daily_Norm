@@ -7,6 +7,11 @@ assignees: ''
 
 ---
 
+**Due Date**
+---
+due: yyyy-mm-dd
+---
+
 **Code to be refactor**
 
 **Benefit of refactoring**
